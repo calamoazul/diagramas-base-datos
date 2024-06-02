@@ -12,12 +12,14 @@ ___
 
 Realiza el diseño conceptual teniendo en cuenta:
 
-> [!info] El correcto uso de la simbología
-Representar todas las entidades y sus atributos
-Relacionar correctamente las entidades
-Ser coherentes con los nombres elegidos para cada elemento
-Orden en la presentación
-El entregable ÚNICAMENTE podrá ser mediante un fichero PNG, JPG o PDF.
+>[!NOTE]
+>
+>El correcto uso de la simbología
+>Representar todas las entidades y sus atributos
+>Relacionar correctamente las entidades
+>Ser coherentes con los nombres elegidos para >cada elemento
+>Orden en la presentación
+>El entregable ÚNICAMENTE podrá ser mediante un >fichero PNG, JPG o PDF.
 
 Compártelo tu resultado en las discusiones de la clase. 
 
