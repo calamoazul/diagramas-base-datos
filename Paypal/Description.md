@@ -6,7 +6,8 @@ Queremos que pongas en práctica los tres tipo de diseño vistos: teórico, lóg
 
 Realiza los tres diseños basándonos en el siguiente caso:
 
->[!NOTE]Queremos hacer una ampliación similar a PayPal donde los usuarios dispongan de cuentas con saldo y puedan hacer transferencias a otros usuarios. Los usuarios se registrarán mediante correo y contraseña, aunque almacenaremos también su nombre completo.
+>[!NOTE]
+>Queremos hacer una ampliación similar a PayPal donde los usuarios dispongan de cuentas con saldo y puedan hacer transferencias a otros usuarios. Los usuarios se registrarán mediante correo y contraseña, aunque almacenaremos también su nombre completo.
 >
 >Cada usuario podrá crear varias cuentas, que pueden ser normales o de empresa. Para cada cuenta, almacenamos su saldo actual en €, su nombre y una descripción proporcionada por el usuario.
 >
@@ -22,7 +23,8 @@ ___
 
 Una vez los tengas:
 
->[!NOTE]Realiza el diseño lógico y conceptual. Exporta cada diseño  a una imagen o PDF.
+>[!NOTE]
+>Realiza el diseño lógico y conceptual. Exporta cada diseño  a una imagen o PDF.
 >Realiza el diseño físico mediante un fichero SQL.
 >
 >Crea un nuevo fichero SQL con al menos 3 consultas, una básica y dos con agrupaciones.
